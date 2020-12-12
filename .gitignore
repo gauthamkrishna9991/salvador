@@ -1,0 +1,4 @@
+# remove the build directory names
+debug/
+release/
+builddir/

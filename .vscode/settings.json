@@ -1,0 +1,7 @@
+{
+    "mesonbuild.buildFolder": "debug",
+    "mesonbuild.configureOnOpen": true,
+    "mesonbuild.configureOptions": [
+        "--buildtype=debug"
+    ]
+}
